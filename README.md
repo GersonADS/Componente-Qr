@@ -14,9 +14,6 @@
 - HTML5
 - CSS3
 
-### What I learned
-
-Posicionar melhor os elementos na tela
 ## Author
 
 - GitHub - [Gerson_ADS](https://github.com/GersonADS)
