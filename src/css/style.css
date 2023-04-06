@@ -6,6 +6,11 @@ body{
 }
 
 .section.principal {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     width: 20rem;
     height: 30rem;
     padding: 10px;
@@ -26,9 +31,15 @@ body{
 
 
 
-.section.second
+.section.qr
 img {
     width: 300px;
     border-radius: 1rem;
 }
 
+footer {    
+    padding: 2rem;
+    bottom: 0;
+    min-width: 100%;
+    position: fixed;
+}
